@@ -1,5 +1,8 @@
 # Facets of Formula 1 in 2022
 
+![image](https://github.com/jaedagantulga/facets-of-formula-one/assets/69090315/9c8b874a-f696-4e45-9e2d-69626e86d106)
+
+
 Since its inception in 1950, Formula 1 has become the most popular international auto racing sport at the highest level of competition. It is sanctioned by the Fédération Internationale de l'Automobile (FIA). The format of Formula 1 has two simultaneous championships during the season, the Constructors Championship and the Drivers' Championship. The Constructors Championship is determined by adding up the points for both drivers of the same team while the Drivers' Championship is won by one individual. 
 
 In the 2022 season, there were ten teams racing with two drivers each for a total of twenty drivers competing. 
