@@ -1,0 +1,718 @@
+,driverId,driverRef,code,forename,surname,teammates
+0,1,hamilton,HAM,Lewis,Hamilton,"[3.0, 4.0, 5.0, 847.0, 18.0, 822.0]"
+1,2,heidfeld,HEI,Nick,Heidfeld,"[35.0, 808.0, 9.0, 8.0, 10.0, 13.0, 45.0, 17.0, 49.0, 55.0, 155.0]"
+2,3,rosberg,ROS,Nico,Rosberg,"[1.0, 6.0, 17.0, 25.0, 30.0]"
+3,4,alonso,ALO,Fernando,Alonso,"[1.0, 35.0, 58.0, 838.0, 839.0, 8.0, 12.0, 13.0, 15.0, 18.0, 21.0, 154.0, 62.0]"
+4,5,kovalainen,KOV,Heikki,Kovalainen,"[1.0, 808.0, 812.0, 15.0, 21.0, 154.0]"
+5,6,nakajima,NAK,Kazuki,Nakajima,[3.0]
+6,7,bourdais,BOU,Sébastien,Bourdais,"[67.0, 20.0]"
+7,8,raikkonen,RAI,Kimi,Räikkönen,"[2.0, 4.0, 69.0, 37.0, 841.0, 13.0, 14.0, 816.0, 20.0, 21.0, 154.0, 31.0]"
+8,9,kubica,KUB,Robert,Kubica,"[808.0, 2.0, 847.0]"
+9,10,glock,GLO,Timo,Glock,"[2.0, 810.0, 15.0, 816.0, 819.0]"
+10,11,sato,SAT,Takuma,Sato,"[34.0, 36.0, 18.0, 19.0, 21.0, 29.0]"
+11,12,piquet_jr,PIQ,Nelson,Piquet Jr.,[4.0]
+12,13,massa,MAS,Felipe,Massa,"[2.0, 35.0, 4.0, 840.0, 8.0, 21.0, 822.0, 30.0]"
+13,14,coulthard,COU,David,Coulthard,"[32.0, 38.0, 71.0, 8.0, 17.0, 24.0, 57.0]"
+14,15,trulli,TRU,Jarno,Trulli,"[4.0, 5.0, 41.0, 10.0, 75.0, 44.0, 79.0, 49.0, 18.0, 55.0, 23.0]"
+15,16,sutil,SUT,Adrian,Sutil,"[814.0, 21.0, 821.0, 24.0, 27.0, 29.0]"
+16,17,webber,WEB,Mark,Webber,"[nan, nan, 2.0, 3.0, 32.0, 42.0, 14.0, 19.0, 20.0, 51.0, 62.0]"
+17,18,button,BUT,Jenson,Button,"[1.0, 35.0, 4.0, 11.0, 815.0, 15.0, 19.0, 21.0, 22.0, 23.0, 825.0]"
+18,19,davidson,DAV,Anthony,Davidson,"[17.0, 11.0]"
+19,20,vettel,VET,Sebastian,Vettel,"[2.0, 7.0, 8.0, 840.0, 844.0, 17.0, 817.0, 24.0]"
+20,21,fisichella,FIS,Giancarlo,Fisichella,"[4.0, 5.0, 11.0, 13.0, 47.0, 16.0, 18.0, 83.0, 52.0, 23.0, 25.0]"
+21,22,barrichello,BAR,Rubens,Barrichello,"[65.0, 807.0, 123.0, 76.0, 813.0, 18.0, 50.0, 84.0, 56.0, 122.0, 88.0, 124.0, 125.0, 30.0]"
+22,23,ralf_schumacher,SCH,Ralf,Schumacher,"[70.0, 71.0, 15.0, 18.0, 21.0, 31.0]"
+23,24,liuzzi,LIU,Vitantonio,Liuzzi,"[39.0, 14.0, 16.0, 817.0, 20.0, 26.0]"
+24,25,wurz,WUR,Alexander,Wurz,"[8.0, 3.0, 21.0]"
+25,26,speed,SPE,Scott,Speed,[24.0]
+26,27,albers,ALB,Christijan,Albers,"[16.0, 33.0, 40.0, 38.0]"
+27,28,markus_winkelhock,WIN,Markus,Winkelhock,[16.0]
+28,29,yamamoto,YAM,Sakon,Yamamoto,"[16.0, 811.0, 11.0]"
+29,30,michael_schumacher,MSC,Michael,Schumacher,"[65.0, 3.0, 137.0, 13.0, 109.0, 50.0, 84.0, 22.0, 119.0, 56.0]"
+30,31,montoya,MON,Juan,Pablo Montoya,"[8.0, 48.0, 42.0, 23.0]"
+31,32,klien,KLI,Christian,Klien,"[17.0, 811.0, 14.0]"
+32,33,monteiro,TMO,Tiago,Monteiro,"[27.0, 39.0]"
+33,34,ide,IDE,Yuji,Ide,[11.0]
+34,35,villeneuve,VIL,Jacques,Villeneuve,"[2.0, 71.0, 41.0, 44.0, 13.0, 49.0, 18.0]"
+35,36,montagny,FMO,Franck,Montagny,[11.0]
+36,37,rosa,DLR,Pedro,de la Rosa,"[68.0, 39.0, 8.0, 50.0, 56.0, 155.0]"
+37,38,doornbos,DOO,Robert,Doornbos,"[27.0, 14.0]"
+38,39,karthikeyan,KAR,Narain,Karthikeyan,"[24.0, 33.0, 37.0, 817.0]"
+39,40,friesacher,FRI,Patrick,Friesacher,[27.0]
+40,41,zonta,ZON,Ricardo,Zonta,"[35.0, 44.0, 15.0]"
+41,42,pizzonia,PIZ,Antônio,Pizzonia,[17.0]
+42,43,matta,\N,Cristiano,da Matta,[44.0]
+43,44,panis,\N,Olivier,Panis,"[64.0, 35.0, 103.0, 41.0, 75.0, 43.0, 15.0, 84.0, 116.0, 88.0]"
+44,45,pantano,\N,Giorgio,Pantano,[2.0]
+45,46,bruni,\N,Gianmaria,Bruni,[47.0]
+46,47,baumgartner,\N,Zsolt,Baumgartner,"[21.0, 46.0]"
+47,48,gene,\N,Marc,Gené,"[72.0, 60.0, 69.0]"
+48,49,frentzen,\N,Heinz-Harald,Frentzen,"[96.0, 65.0, 2.0, 35.0, nan, 71.0, 59.0, 109.0, 110.0, 15.0, 54.0, 91.0, 61.0]"
+49,50,verstappen,\N,Jos,Verstappen,"[37.0, 73.0, 109.0, 51.0, 53.0, 22.0, 59.0, 93.0, 30.0, 63.0]"
+50,51,wilson,\N,Justin,Wilson,"[17.0, 50.0]"
+51,52,firman,\N,Ralph,Firman,[21.0]
+52,53,kiesa,\N,Nicolas,Kiesa,[50.0]
+53,54,burti,\N,Luciano,Burti,"[56.0, 55.0]"
+54,55,alesi,\N,Jean,Alesi,"[64.0, 65.0, 2.0, nan, 138.0, 77.0, 78.0, 15.0, 156.0, 117.0, 54.0, 25.0, 122.0, 60.0]"
+55,56,irvine,\N,Eddie,Irvine,"[65.0, 37.0, 54.0, 22.0, 30.0, 63.0]"
+56,57,hakkinen,\N,Mika,Häkkinen,"[65.0, 102.0, 141.0, 14.0, 143.0, 84.0, 87.0, 95.0]"
+57,58,marques,\N,Tarso,Marques,"[4.0, 79.0]"
+58,59,bernoldi,\N,Enrique,Bernoldi,"[49.0, 50.0]"
+59,60,mazzacane,\N,Gastón,Mazzacane,[48.0]
+60,61,enge,\N,Tomáš,Enge,[49.0]
+61,62,yoong,\N,Alex,Yoong,"[17.0, 4.0]"
+62,63,salo,\N,Mika,Salo,"[64.0, 66.0, 35.0, 99.0, 70.0, 79.0, 50.0, 56.0]"
+63,64,diniz,\N,Pedro,Diniz,"[71.0, 44.0, 55.0, 90.0, 63.0]"
+64,65,herbert,\N,Johnny,Herbert,"[70.0, 44.0, 78.0, 81.0, 82.0, 49.0, 145.0, 83.0, 54.0, 55.0, 56.0, 22.0, 113.0, 118.0, 30.0, 57.0]"
+65,66,mcnish,\N,Allan,McNish,[63.0]
+66,67,buemi,BUE,Sébastien,Buemi,"[153.0, 7.0]"
+67,68,takagi,\N,Toranosuke,Takagi,"[nan, nan, nan, 37.0, 73.0]"
+68,69,badoer,BAD,Luca,Badoer,"[105.0, 48.0, 83.0, 85.0, 94.0]"
+69,70,zanardi,\N,Alessandro,Zanardi,"[65.0, 103.0, 110.0, 23.0]"
+70,71,damon_hill,\N,Damon,Hill,"[nan, 64.0, 128.0, 35.0, nan, 102.0, 14.0, 49.0, 117.0, 23.0, 95.0]"
+71,72,sarrazin,\N,Stéphane,Sarrazin,[48.0]
+72,73,rosset,\N,Ricardo,Rosset,"[50.0, 68.0]"
+73,74,tuero,\N,Esteban,Tuero,[75.0]
+74,75,nakano,\N,Shinji,Nakano,"[74.0, 44.0, 15.0]"
+75,76,magnussen,MAG,Jan,Magnussen,[22.0]
+76,77,berger,\N,Gerhard,Berger,"[nan, nan, nan, nan, 102.0, 105.0, 170.0, 78.0, 181.0, 55.0, 123.0, 95.0]"
+77,78,larini,\N,Nicola,Larini,"[128.0, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, 160.0, nan, nan, 65.0, 77.0, 112.0]"
+78,79,katayama,\N,Ukyo,Katayama,"[110.0, 15.0, 87.0, 58.0, 92.0, 63.0]"
+79,80,sospiri,\N,Vincenzo,Sospiri,[73.0]
+80,81,morbidelli,\N,Gianni,Morbidelli,"[65.0, 70.0, 104.0, 110.0, 55.0, 89.0, 94.0]"
+81,82,fontana,\N,Norberto,Fontana,[65.0]
+82,83,lamy,\N,Pedro,Lamy,"[65.0, 69.0, 21.0, 86.0, 58.0]"
+83,84,brundle,\N,Martin,Brundle,"[nan, nan, 185.0, 131.0, 166.0, 44.0, 112.0, 22.0, 119.0, 87.0, 57.0, 157.0, 30.0]"
+84,85,montermini,\N,Andrea,Montermini,"[98.0, 92.0, 69.0, 86.0]"
+85,86,lavaggi,\N,Giovanni,Lavaggi,"[83.0, 85.0]"
+86,87,blundell,\N,Mark,Blundell,"[57.0, 76.0, 84.0, 79.0]"
+87,88,suzuki,\N,Aguri,Suzuki,"[nan, 103.0, 105.0, 44.0, 146.0, 118.0, 92.0]"
+88,89,inoue,\N,Taki,Inoue,"[81.0, 97.0]"
+89,90,moreno,\N,Roberto,Moreno,"[64.0, nan, nan, nan, 162.0, 134.0, 135.0, 137.0, 149.0, 94.0]"
+90,91,wendlinger,\N,Karl,Wendlinger,"[49.0, 125.0, 108.0, 109.0]"
+91,92,gachot,\N,Bertrand,Gachot,"[nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, 140.0, 162.0, 79.0, 85.0, 108.0, 110.0]"
+92,93,schiattarella,\N,Domenico,Schiattarella,"[50.0, 101.0]"
+93,94,martini,\N,Pierluigi,Martini,"[nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, 147.0, 159.0, 69.0, 81.0, 104.0, 105.0, 109.0, 111.0]"
+94,95,mansell,\N,Nigel,Mansell,"[nan, 71.0, 137.0, 77.0, 173.0, 177.0, 117.0, 119.0]"
+95,96,boullion,\N,Jean-Christophe,Boullion,[49.0]
+96,97,papis,\N,Massimiliano,Papis,[89.0]
+97,98,deletraz,\N,Jean-Denis,Délétraz,"[115.0, 85.0]"
+98,99,tarquini,\N,Gabriele,Tarquini,"[128.0, nan, 130.0, nan, nan, nan, nan, nan, nan, nan, nan, nan, 140.0, nan, nan, nan, nan, nan, nan, nan, nan, 164.0, nan, 114.0, 120.0]"
+99,100,comas,\N,Érik,Comas,"[106.0, 112.0, 114.0, 115.0, 123.0, 126.0]"
+100,101,brabham,\N,David,Brabham,"[nan, nan, 131.0, 107.0, 111.0, 85.0, 89.0, 93.0]"
+101,102,senna,\N,Ayrton,Senna,"[nan, nan, nan, 138.0, 140.0, 77.0, 174.0, 173.0, 117.0, 121.0, 188.0, 57.0]"
+102,103,bernard,\N,Éric,Bernard,"[88.0, 44.0, 112.0]"
+103,104,fittipaldi,\N,Christian,Fittipaldi,"[120.0, 81.0, 94.0]"
+104,105,alboreto,\N,Michele,Alboreto,"[193.0, 163.0, 133.0, 69.0, 201.0, 140.0, 77.0, 205.0, 112.0, 146.0, 88.0, 158.0, 156.0, 94.0]"
+105,106,beretta,\N,Olivier,Beretta,[100.0]
+106,107,ratzenberger,\N,Roland,Ratzenberger,[101.0]
+107,108,belmondo,\N,Paul,Belmondo,"[91.0, 92.0]"
+108,109,lehto,\N,Jyrki,Järvilehto,"[139.0, 140.0, 50.0, 148.0, 91.0, 94.0]"
+109,110,cesaris,\N,Andrea,de Cesaris,"[nan, 129.0, nan, 131.0, nan, 133.0, nan, nan, nan, nan, nan, 139.0, nan, nan, nan, nan, 145.0, 22.0, 152.0, 30.0, nan, nan, nan, nan, nan, nan, 172.0, 49.0, 183.0, 184.0, 187.0, 70.0, 79.0, 81.0, 90.0, 92.0, 119.0]"
+110,111,gounon,\N,Jean-Marc,Gounon,"[101.0, 94.0]"
+111,112,alliot,\N,Philippe,Alliot,"[nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, 156.0, 162.0, 163.0, 181.0, 186.0, 191.0, 78.0, 88.0, 100.0, 105.0, 114.0]"
+112,113,adams,\N,Philippe,Adams,[65.0]
+113,114,dalmas,\N,Yannick,Dalmas,"[112.0, 99.0, 100.0]"
+114,115,noda,\N,Hideki,Noda,"[98.0, 100.0]"
+115,116,lagorce,\N,Franck,Lagorce,[44.0]
+116,117,prost,\N,Alain,Prost,"[nan, 163.0, 102.0, 71.0, 140.0, 177.0, 182.0, 55.0, 187.0, 158.0, 95.0]"
+117,118,warwick,\N,Derek,Warwick,"[nan, 65.0, 170.0, 205.0, 175.0, 119.0, 151.0, 88.0, 152.0, 158.0]"
+118,119,patrese,\N,Riccardo,Patrese,"[nan, 191.0, nan, 198.0, 168.0, 137.0, 200.0, 158.0, 173.0, 110.0, 178.0, 243.0, 181.0, 118.0, 216.0, 123.0, 30.0, 95.0]"
+119,120,barbazza,\N,Fabrizio,Barbazza,"[104.0, 129.0, 99.0]"
+120,121,andretti,\N,Michael,Andretti,[102.0]
+121,122,capelli,\N,Ivan,Capelli,"[nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, 55.0, 84.0, 127.0]"
+122,123,boutsen,\N,Thierry,Boutsen,"[nan, 100.0, 170.0, 77.0, 176.0, 145.0, 22.0, 119.0, 157.0]"
+123,124,apicella,\N,Marco,Apicella,[22.0]
+124,125,naspetti,\N,Emanuele,Naspetti,"[136.0, 91.0]"
+125,126,toshio_suzuki,\N,Toshio,Suzuki,[100.0]
+126,127,gugelmin,\N,Maurício,Gugelmin,"[91.0, 122.0, 131.0]"
+127,128,poele,\N,Eric,van de Poele,"[99.0, 132.0, 78.0, 71.0]"
+128,129,grouillard,\N,Olivier,Grouillard,"[nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, 163.0, nan, nan, nan, nan, nan, 110.0]"
+129,130,chiesa,\N,Andrea,Chiesa,[99.0]
+130,131,modena,\N,Stefano,Modena,"[101.0, 165.0, 138.0, 84.0, 148.0, 127.0]"
+131,132,amati,\N,Giovanna,Amati,[128.0]
+132,133,caffi,\N,Alex,Caffi,"[nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, 160.0, 99.0, 105.0, 110.0]"
+133,134,bertaggia,\N,Enrico,Bertaggia,[90.0]
+134,135,mccarthy,\N,Perry,McCarthy,[90.0]
+135,136,lammers,\N,Jan,Lammers,"[nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, 173.0, 209.0, 125.0]"
+136,137,piquet,\N,Nelson,Piquet,"[138.0, 170.0, 176.0, 145.0, 119.0, 181.0, 212.0, 183.0, 182.0, 217.0, 90.0, 187.0, 190.0, 30.0, 95.0]"
+137,138,satoru_nakajima,\N,Satoru,Nakajima,"[137.0, 131.0, 102.0, 55.0]"
+138,139,pirro,\N,Emanuele,Pirro,"[145.0, 109.0, 110.0]"
+139,140,johansson,\N,Stefan,Johansson,"[nan, nan, nan, 163.0, nan, nan, nan, 102.0, 105.0, 109.0, 84.0, 117.0, 92.0, 94.0, 191.0]"
+140,141,bailey,\N,Julian,Bailey,[156.0]
+141,142,chaves,\N,Pedro,Chaves,"[nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]"
+142,143,bartels,\N,Michael,Bartels,[57.0]
+143,144,hattori,\N,Naoki,Hattori,"[nan, nan]"
+144,145,nannini,\N,Alessandro,Nannini,"[65.0, 167.0, 137.0, 139.0, 110.0, 123.0]"
+145,146,schneider,\N,Bernd,Schneider,"[88.0, 160.0]"
+146,147,barilla,\N,Paolo,Barilla,[94.0]
+147,148,foitek,\N,Gregor,Foitek,"[nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, 109.0]"
+148,149,langes,\N,Claudio,Langes,[90.0]
+149,150,gary_brabham,\N,Gary,Brabham,"[nan, nan]"
+150,151,donnelly,\N,Martin,Donnelly,[118.0]
+151,152,giacomelli,\N,Bruno,Giacomelli,"[nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, 207.0, 221.0, 230.0, 110.0, 118.0]"
+152,153,alguersuari,ALG,Jaime,Alguersuari,[67.0]
+153,154,grosjean,GRO,Romain,Grosjean,"[4.0, 5.0, 8.0, 813.0, 821.0, 825.0]"
+154,155,kobayashi,KOB,Kamui,Kobayashi,"[2.0, 37.0, 815.0, 15.0, 828.0]"
+155,156,palmer,\N,Jonathan,Palmer,"[nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, 141.0, 166.0, 177.0, 179.0, 55.0, 65.0, 105.0, 112.0]"
+156,157,danner,\N,Christian,Danner,"[160.0, 161.0, 162.0, nan, nan, 84.0, 123.0]"
+157,158,cheever,\N,Eddie,Cheever,"[nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, 151.0, nan, 172.0, 178.0, 214.0, 105.0, 117.0, 118.0, 119.0]"
+158,159,sala,\N,Luis,Pérez-Sala,"[147.0, 94.0, 167.0]"
+159,160,ghinzani,\N,Piercarlo,Ghinzani,"[nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, 146.0, 157.0, nan, 163.0, 170.0, 180.0, 189.0, 190.0, 78.0, 213.0]"
+160,161,weidler,\N,Volker,Weidler,[157.0]
+161,162,raphanel,\N,Pierre-Henri,Raphanel,"[148.0, 157.0, 92.0]"
+162,163,arnoux,\N,René,Arnoux,"[nan, 129.0, nan, nan, nan, nan, nan, nan, nan, nan, 140.0, 160.0, 172.0, 175.0, 213.0, 219.0, 105.0, 112.0, 117.0]"
+163,164,joachim_winkelhock,\N,Joachim,Winkelhock,[nan]
+164,165,larrauri,\N,Oscar,Larrauri,"[nan, nan, nan, nan, nan, 131.0]"
+165,166,streiff,\N,Philippe,Streiff,"[nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, 156.0, 172.0, 84.0]"
+166,167,campos,\N,Adrián,Campos,[145.0]
+167,168,schlesser,\N,Jean-Louis,Schlesser,"[194.0, 119.0]"
+168,169,fabre,\N,Pascal,Fabre,"[nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan]"
+169,170,fabi,\N,Teo,Fabi,"[nan, nan, nan, nan, nan, nan, 160.0, 137.0, 77.0, 118.0, 123.0]"
+170,171,forini,\N,Franco,Forini,[133.0]
+171,172,laffite,\N,Jacques,Laffite,"[nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, 270.0, nan, nan, nan, nan, 275.0, nan, nan, nan, nan, nan, 158.0, nan, nan, nan, nan, 163.0, nan, nan, 166.0, nan, 296.0, 303.0, 175.0, 177.0, nan, nan, nan, 197.0, nan, nan, nan, nan, 202.0, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, 219.0, 221.0, 232.0, 235.0, 110.0, nan]"
+172,173,angelis,\N,Elio,de Angelis,"[102.0, 136.0, 207.0, 119.0, 90.0, 95.0]"
+173,174,dumfries,\N,Johnny,Dumfries,[102.0]
+174,175,tambay,\N,Patrick,Tambay,"[nan, nan, nan, nan, nan, nan, nan, nan, nan, 137.0, nan, 152.0, 163.0, 172.0, 178.0, 187.0, 202.0, 207.0, 223.0, 231.0, 118.0]"
+175,176,surer,\N,Marc,Surer,"[nan, nan, nan, nan, nan, nan, nan, nan, 136.0, 137.0, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, 178.0, 184.0, 192.0, 218.0, 229.0, 123.0]"
+176,177,keke_rosberg,\N,Keke,Rosberg,"[nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, 172.0, 192.0, 199.0, 206.0, 207.0, 222.0, 95.0, 224.0, 117.0, 247.0]"
+177,178,jones,\N,Alan,Jones,"[nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, 274.0, 280.0, nan, nan, nan, nan, 294.0, 175.0, 199.0, 223.0, 232.0, 239.0, 119.0, 254.0]"
+178,179,rothengatter,\N,Huub,Rothengatter,"[nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, 156.0]"
+179,180,berg,\N,Allen,Berg,[160.0]
+180,181,manfred_winkelhock,\N,Manfred,Winkelhock,"[nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, 194.0, 112.0]"
+181,182,lauda,\N,Niki,Lauda,"[199.0, 137.0, 238.0, 306.0, 117.0, 187.0, 223.0]"
+182,183,hesnault,\N,François,Hesnault,"[137.0, 110.0]"
+183,184,baldi,\N,Mauro,Baldi,"[nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, 205.0, 110.0, 176.0]"
+184,185,bellof,\N,Stefan,Bellof,"[140.0, 84.0]"
+185,186,acheson,\N,Kenny,Acheson,"[nan, nan, nan, nan, nan, nan, nan, 112.0]"
+186,187,watson,\N,John,Watson,"[nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, 269.0, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, 301.0, 175.0, 182.0, 313.0, 199.0, 226.0, 233.0, 110.0, 238.0, 117.0, 250.0]"
+187,188,cecotto,\N,Johnny,Cecotto,"[195.0, 102.0]"
+188,189,gartner,\N,Jo,Gartner,[160.0]
+189,190,corrado_fabi,\N,Corrado,Fabi,"[160.0, 137.0]"
+190,191,thackwell,\N,Mike,Thackwell,"[112.0, 140.0, 119.0]"
+191,192,serra,\N,Chico,Serra,"[nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, 176.0, 177.0]"
+192,193,sullivan,\N,Danny,Sullivan,[105.0]
+193,194,salazar,\N,Eliseo,Salazar,"[nan, nan, nan, nan, nan, nan, nan, nan, 168.0, nan, nan, nan, nan, nan, 206.0, nan, 181.0]"
+194,195,guerrero,\N,Roberto,Guerrero,"[nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, 188.0]"
+195,196,boesel,\N,Raul,Boesel,"[200.0, 211.0, 197.0]"
+196,197,jarier,\N,Jean-Pierre,Jarier,"[nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, 268.0, nan, nan, 172.0, 178.0, 309.0, 312.0, 318.0, 196.0, 200.0, 329.0, 202.0, 204.0, 206.0, 207.0, 213.0, 231.0, 246.0, 252.0]"
+197,198,villeneuve_sr,\N,Jacques,Villeneuve Sr.,[nan]
+198,199,reutemann,\N,Carlos,Reutemann,"[289.0, 290.0, 203.0, 207.0, 177.0, 178.0, 243.0, 212.0, 308.0, 182.0, 250.0, 187.0]"
+199,200,mass,\N,Jochen,Mass,"[224.0, nan, 321.0, 196.0, 293.0, 197.0, 231.0, 239.0, 208.0, 177.0, 305.0, 244.0, 246.0, 119.0, 152.0, 250.0, 319.0]"
+200,201,borgudd,\N,Slim,Borgudd,"[nan, nan, nan, nan, nan, nan, nan, nan, 136.0, nan, nan, nan]"
+201,202,pironi,\N,Didier,Pironi,"[nan, nan, nan, 197.0, 203.0, 172.0, 206.0, 175.0, 221.0]"
+202,203,gilles_villeneuve,\N,Gilles,Villeneuve,"[202.0, 222.0, 199.0]"
+203,204,paletti,\N,Riccardo,Paletti,[197.0]
+204,205,henton,\N,Brian,Henton,"[nan, nan, 105.0, 237.0, 302.0, 118.0, 184.0]"
+205,206,daly,\N,Derek,Daly,"[nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, 177.0, 194.0, 197.0, 209.0, 229.0, 239.0]"
+206,207,mario_andretti,\N,Mario,Andretti,"[nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, 152.0, 173.0, 175.0, 197.0, 199.0, 212.0, 95.0, 223.0, 235.0, 238.0, 255.0]"
+207,208,villota,\N,Emilio,de Villota,"[200.0, 271.0]"
+208,209,lees,\N,Geoff,Lees,"[nan, 225.0, 136.0, 202.0, 173.0]"
+209,210,byrne,\N,Tommy,Byrne,"[nan, nan, nan, nan, nan]"
+210,211,keegan,\N,Rupert,Keegan,"[nan, 196.0, 229.0, 230.0, 270.0, 212.0]"
+211,212,rebaque,\N,Hector,Rebaque,"[nan, nan, nan, 199.0, 137.0, 207.0]"
+212,213,gabbiani,\N,Beppe,Gabbiani,"[nan, nan, 220.0, 215.0]"
+213,214,cogan,\N,Kevin,Cogan,[158.0]
+214,215,guerra,\N,Miguel Ángel,Guerra,[213.0]
+215,216,stohr,\N,Siegfried,Stohr,[119.0]
+216,217,zunino,\N,Ricardo,Zunino,"[137.0, 158.0]"
+217,218,londono,\N,Ricardo,Londoño,[176.0]
+218,219,jabouille,\N,Jean-Pierre,Jabouille,"[nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, 163.0, 172.0]"
+219,220,francia,\N,Giorgio,Francia,[213.0]
+220,221,depailler,\N,Patrick,Depailler,"[202.0, 172.0, 238.0, 272.0, 152.0, 222.0]"
+221,222,scheckter,\N,Jody,Scheckter,"[nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, 277.0, 284.0, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, 177.0, 203.0, 221.0, 249.0]"
+222,223,regazzoni,\N,Clay,Regazzoni,"[nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, 175.0, 178.0, 306.0, 182.0, 207.0, 233.0, 235.0]"
+223,224,emerson_fittipaldi,\N,Emerson,Fittipaldi,"[nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, 293.0, 304.0, 305.0, 177.0, 317.0, nan, nan, nan, nan, nan, nan, 200.0, nan, nan, nan, nan, nan, nan, nan, nan, nan, 338.0, nan, nan, nan, nan, nan, 353.0, 358.0, 237.0, 238.0, nan, 253.0]"
+224,225,kennedy,\N,Dave,Kennedy,"[209.0, 140.0]"
+225,226,south,\N,Stephen,South,[187.0]
+226,227,needell,\N,Tiff,Needell,"[nan, nan]"
+227,229,ertl,\N,Harald,Ertl,"[nan, nan, nan, nan, nan, nan, nan, 231.0, 137.0, 265.0, 211.0, 247.0]"
+228,230,brambilla,\N,Vittorio,Brambilla,"[nan, nan, nan, 248.0, 256.0, 233.0, 267.0, 238.0, 241.0, 275.0, 211.0, 246.0, 152.0, 317.0]"
+229,231,hunt,\N,James,Hunt,"[nan, nan, nan, 259.0, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, 175.0, 178.0, 317.0, 197.0, 200.0, 329.0, 229.0, 233.0, 239.0, 251.0]"
+230,232,merzario,\N,Arturo,Merzario,"[nan, nan, nan, 257.0, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, 278.0, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, 298.0, 172.0, 311.0, nan, nan, nan, nan, nan, nan, 219.0, 230.0, 235.0, 244.0]"
+231,233,stuck,\N,Hans-Joachim,Stuck,"[nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, 275.0, 187.0, 223.0, 230.0, 232.0, 238.0]"
+232,234,brancatelli,\N,Gianfranco,Brancatelli,"[nan, nan, nan]"
+233,235,ickx,\N,Jacky,Ickx,"[nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, 277.0, 278.0, nan, 172.0, 307.0, 309.0, 330.0, 207.0, 223.0, 351.0, 356.0, 232.0, 361.0, 238.0, 377.0]"
+234,236,gaillard,\N,Patrick,Gaillard,"[nan, nan, nan, nan, nan]"
+235,237,ribeiro,\N,Alex,Ribeiro,"[nan, 258.0, 251.0, 229.0]"
+236,238,peterson,\N,Ronnie,Peterson,"[224.0, 291.0, 197.0, 230.0, 232.0, 233.0, 329.0, 235.0, 330.0, 205.0, 207.0, 243.0, 212.0, 182.0, 342.0, 280.0, 346.0, 221.0]"
+237,239,lunger,\N,Brett,Lunger,"[nan, 231.0, 237.0, 175.0, 178.0, 152.0, 251.0]"
+238,240,ongais,\N,Danny,Ongais,"[nan, 241.0, nan]"
+239,241,leoni,\N,Lamberto,Leoni,"[nan, nan]"
+240,242,galica,\N,Divina,Galica,"[nan, nan]"
+241,243,stommelen,\N,Rolf,Stommelen,"[nan, 289.0, nan, 356.0, 229.0, 294.0, 296.0, 238.0, 341.0, 119.0, 250.0]"
+242,244,colombo,\N,Alberto,Colombo,"[200.0, 232.0]"
+243,245,trimmer,\N,Tony,Trimmer,"[nan, nan, nan, nan]"
+244,246,binder,\N,Hans,Binder,"[nan, 232.0, 197.0, 230.0]"
+245,247,bleekemolen,\N,Michael,Bleekemolen,"[200.0, 177.0]"
+246,248,gimax,\N,Carlo,Franchi,[230.0]
+247,249,rahal,\N,Bobby,Rahal,[222.0]
+248,250,pace,\N,Carlos,Pace,"[256.0, 199.0, 200.0, 238.0, 305.0, 243.0, 280.0, 187.0]"
+249,251,ian_scheckter,\N,Ian,Scheckter,"[232.0, 235.0, 172.0, 237.0]"
+250,252,pryce,\N,Tom,Pryce,"[nan, nan, nan, 197.0, 254.0]"
+251,253,hoffmann,\N,Ingo,Hoffmann,[224.0]
+252,254,zorzi,\N,Renzo,Zorzi,"[nan, 172.0, 252.0]"
+253,255,nilsson,\N,Gunnar,Nilsson,"[nan, 276.0, 207.0]"
+254,256,perkins,\N,Larry,Perkins,"[nan, nan, nan, nan, nan, nan, nan, nan, 278.0]"
+255,257,hayje,\N,Boy,Lunger,[187.0]
+256,258,neve,\N,Patrick,Nève,"[232.0, nan, 251.0]"
+257,259,purley,\N,David,Purley,"[nan, nan, nan, nan, nan, nan, 329.0]"
+258,260,andersson,\N,Conny,Andersson,"[nan, nan, nan, nan]"
+259,262,oliver,\N,Jackie,Oliver,"[352.0, 289.0, nan, 304.0, 178.0, 341.0, 346.0, 347.0]"
+260,265,edwards,\N,Guy,Edwards,"[nan, 289.0, 229.0]"
+261,266,mcguire,\N,Brian,McGuire,[nan]
+262,267,schuppan,\N,Vern,Schuppan,"[nan, nan, nan, nan, nan, nan, nan]"
+263,268,heyer,\N,Hans,Heyer,[197.0]
+264,269,pilette,\N,Teddy,Pilette,"[nan, nan, nan]"
+265,270,ashley,\N,Ian,Ashley,"[nan, nan, nan]"
+266,271,kessel,\N,Loris,Kessel,"[nan, 281.0, 258.0, 208.0]"
+267,272,takahashi,\N,Kunimitsu,Takahashi,[221.0]
+268,273,hoshino,\N,Kazuyoshi,Hoshino,[274.0]
+269,274,takahara,\N,Noritake,Takahara,"[273.0, 178.0]"
+270,275,lombardi,\N,Lella,Lombardi,"[nan, 233.0, 230.0, 271.0]"
+271,276,evans,\N,Bob,Evans,"[nan, nan, nan, nan, nan, nan, nan, nan, nan, 275.0, 255.0]"
+272,277,leclere,\N,Michel,Leclère,"[nan, 235.0]"
+273,278,amon,\N,Chris,Amon,"[nan, nan, nan, nan, nan, 385.0, 387.0, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, 404.0, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, 295.0, nan, 305.0, 306.0, 309.0, 321.0, nan, nan, nan, nan, nan, 327.0, 328.0, nan, nan, nan, nan, nan, nan, nan, nan, 346.0, 235.0, 375.0, 383.0]"
+274,279,zapico,\N,Emilio,Zapico,[nan]
+275,280,pescarolo,\N,Henri,Pescarolo,"[nan, nan, 296.0, 238.0, 239.0, 306.0, 339.0]"
+276,281,nelleman,\N,Jac,Nelleman,[271.0]
+277,282,magee,\N,Damien,Magee,"[251.0, 271.0]"
+278,283,wilds,\N,Mike,Wilds,"[nan, nan, nan, nan, nan, nan]"
+279,284,pesenti_rossi,\N,Alessandro,Pesenti-Rossi,[221.0]
+280,286,brown,\N,Warwick,Brown,[232.0]
+281,287,hasemi,\N,Masahiro,Hasemi,[nan]
+282,288,donohue,\N,Mark,Donohue,"[nan, nan, nan, nan, nan, nan, 230.0, nan, nan, nan, nan, nan, 304.0]"
+283,289,hill,\N,Graham,Hill,"[nan, nan, nan, nan, nan, 386.0, 385.0, nan, nan, 265.0, 394.0, 262.0, 396.0, 404.0, 290.0, 418.0, 293.0, 427.0, 314.0, 320.0, 199.0, 328.0, 332.0, 346.0, 347.0, 477.0, 479.0, 357.0, 358.0, 243.0, 373.0, 506.0]"
+284,290,wilson_fittipaldi,\N,Wilson,Fittipaldi,"[nan, 289.0, nan, nan, nan, nan, nan, 199.0, nan, nan, nan, nan, nan, nan, nan, 243.0]"
+285,291,tunmer,\N,Guy,Tunmer,[238.0]
+286,292,keizan,\N,Eddie,Keizan,[328.0]
+287,293,charlton,\N,Dave,Charlton,"[224.0, 289.0, 200.0, 412.0, 383.0]"
+288,294,brise,\N,Tony,Brise,"[nan, 232.0, 267.0, 178.0, 243.0]"
+289,295,wunderink,\N,Roelof,Wunderink,"[nan, nan, nan, nan]"
+290,296,migault,\N,François,Migault,"[nan, 306.0, 294.0]"
+291,297,palm,\N,Torsten,Palm,[178.0]
+292,298,lennep,\N,Gijs,van Lennep,"[nan, nan, nan, 232.0, 307.0]"
+293,299,fushida,\N,Hiroshi,Fushida,"[nan, nan]"
+294,300,nicholson,\N,John,Nicholson,"[nan, nan]"
+295,301,morgan,\N,Dave,Morgan,[187.0]
+296,302,crawford,\N,Jim,Crawford,[238.0]
+297,303,vonlanthen,\N,Jo,Vonlanthen,[172.0]
+298,304,hulme,\N,Denny,Hulme,"[320.0, nan, 322.0, nan, nan, 356.0, nan, 360.0, 364.0, 305.0, 306.0, 309.0, 341.0, 312.0, 222.0, 383.0]"
+299,305,hailwood,\N,Mike,Hailwood,"[224.0, nan, nan, 200.0, 314.0, 333.0, 346.0, 341.0, 278.0, 250.0, 383.0]"
+300,306,beltoise,\N,Jean-Pierre,Beltoise,"[nan, nan, nan, nan, nan, nan, 262.0, nan, nan, nan, nan, nan, nan, 278.0, 280.0, 296.0, 182.0, 317.0, 328.0, 337.0, 223.0, 359.0]"
+301,307,ganley,\N,Howden,Ganley,"[320.0, nan, nan, nan, 233.0, 330.0, 298.0, 314.0, 334.0, 336.0, 337.0, 306.0, 280.0, 345.0, 346.0]"
+302,308,robarts,\N,Richard,Robarts,"[311.0, 199.0]"
+303,309,revson,\N,Peter,Revson,"[304.0, 401.0, 197.0, 305.0]"
+304,310,driver,\N,Paddy,Driver,[nan]
+305,311,belso,\N,Tom,Belsø,[308.0]
+306,312,redman,\N,Brian,Redman,"[nan, 197.0, 304.0, 243.0, 375.0]"
+307,313,opel,\N,Rikky,von Opel,"[nan, nan, nan, nan, nan, nan, nan, 187.0]"
+308,314,schenken,\N,Tim,Schenken,"[nan, 289.0, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, 333.0, 305.0]"
+309,316,kinnunen,\N,Leo,Kinnunen,[323.0]
+310,317,wisell,\N,Reine,Wisell,"[224.0, 289.0, nan, nan, 338.0]"
+311,318,roos,\N,Bertil,Roos,[197.0]
+312,319,dolhem,\N,José,Dolhem,"[321.0, 324.0]"
+313,320,gethin,\N,Peter,Gethin,"[304.0, 306.0, 307.0]"
+314,321,bell,\N,Derek,Bell,"[200.0, nan, 341.0, nan]"
+315,322,hobbs,\N,David,Hobbs,"[365.0, 347.0, 341.0]"
+316,323,quester,\N,Dieter,Quester,[316.0]
+317,324,koinigg,\N,Helmuth,Koinigg,[321.0]
+318,327,cevert,\N,François,Cevert,"[328.0, nan, 346.0]"
+319,328,stewart,\N,Jackie,Stewart,"[nan, nan, nan, nan, 388.0, nan, nan, nan, nan, nan, nan, 278.0, 289.0, 292.0, 306.0, 327.0, 207.0, 346.0, 359.0, 238.0, 374.0]"
+320,329,beuttler,\N,Mike,Beuttler,"[280.0, 197.0]"
+321,330,galli,\N,Nanni,Galli,"[nan, nan, nan, 321.0, nan, 333.0, 307.0]"
+322,331,bueno,\N,Luiz,Bueno,[250.0]
+323,332,follmer,\N,George,Follmer,"[289.0, 262.0]"
+324,333,adamich,\N,Andrea,de Adamich,"[nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, 290.0, 305.0, 314.0, 330.0, 238.0, 250.0]"
+325,334,pretorius,\N,Jackie,Pretorius,[nan]
+326,336,mcrae,\N,Graham,McRae,[307.0]
+327,337,marko,\N,Helmut,Marko,[307.0]
+328,338,walker,\N,David,Walker,[nan]
+329,339,roig,\N,Alex,Soler-Roig,[280.0]
+330,340,love,\N,John,Love,"[nan, 333.0]"
+331,341,surtees,\N,John,Surtees,"[nan, 385.0, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, 404.0, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, 262.0, 298.0, 435.0, 320.0, 453.0, 456.0, 345.0, 347.0, 352.0, 358.0, 360.0, 243.0, 375.0, 377.0]"
+332,342,barber,\N,Skip,Barber,[238.0]
+333,343,brack,\N,Bill,Brack,[341.0]
+334,344,posey,\N,Sam,Posey,[305.0]
+335,345,rodriguez,\N,Pedro,Rodríguez,"[nan, nan, nan, nan, 385.0, 352.0, 262.0, 390.0, nan, 361.0, 370.0, 307.0, 341.0, 278.0, 374.0, 346.0, 347.0]"
+336,346,siffert,\N,Jo,Siffert,"[320.0, 289.0, nan, nan, nan, nan, 358.0, 262.0, nan, 337.0, 402.0, 307.0, 434.0, 440.0, 345.0, 347.0, 380.0]"
+337,347,bonnier,\N,Jo,Bonnier,"[nan, nan, nan, nan, nan, 389.0, nan, nan, 403.0, 408.0, 289.0, 430.0, 304.0, 341.0, 345.0, 346.0, 483.0, 360.0, 364.0, 370.0, 501.0]"
+338,348,mazet,\N,François,Mazet,[349.0]
+339,349,jean,\N,Max,Jean,[348.0]
+340,350,elford,\N,Vic,Elford,"[nan, nan, 359.0, 376.0, 346.0]"
+341,351,moser,\N,Silvio,Moser,"[nan, nan, nan, nan, nan, nan, nan, 364.0]"
+342,352,eaton,\N,George,Eaton,[345.0]
+343,353,lovely,\N,Pete,Lovely,"[nan, 358.0]"
+344,356,jack_brabham,\N,Jack,Brabham,"[nan, nan, nan, nan, nan, nan, nan, 404.0, 418.0, 427.0, 304.0, 456.0, 341.0, 481.0, 610.0, 482.0, 358.0, 360.0, 362.0, 235.0, 364.0, 243.0, 383.0]"
+345,357,miles,\N,John,Miles,[289.0]
+346,358,rindt,\N,Jochen,Rindt,"[224.0, 289.0, 386.0, 353.0, 356.0, 357.0, 389.0, 360.0, 235.0, 340.0, 341.0, 278.0, 346.0, 351.0]"
+347,359,gavin,\N,Johnny,Servoz-Gavin,"[nan, 306.0, 328.0]"
+348,360,mclaren,\N,Bruce,McLaren,"[nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, 403.0, 408.0, 427.0, 431.0, 304.0, 453.0, 456.0, 340.0, 341.0, 468.0, 347.0, 350.0, 479.0, 356.0, 358.0, 364.0]"
+349,361,courage,\N,Piers,Courage,"[nan, nan, nan, nan, nan, 356.0, 235.0, 370.0, 373.0, 345.0]"
+350,362,klerk,\N,Peter,de Klerk,"[nan, nan]"
+351,363,giunti,\N,Ignazio,Giunti,[235.0]
+352,364,gurney,\N,Dan,Gurney,"[nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, nan, 289.0, nan, nan, nan, 430.0, 304.0, 347.0, 478.0, 479.0, 356.0, 360.0, 383.0]"
+353,365,hahne,\N,Hubert,Hahne,[nan]
+354,368,tingle,\N,Sam,Tingle,"[nan, nan, 362.0, 334.0]"
+355,369,rooyen,\N,Basil,van Rooyen,[nan]
+356,370,attwood,\N,Richard,Attwood,"[396.0, 305.0, 404.0, 278.0, 345.0]"
+357,371,pease,\N,Al,Pease,"[nan, nan]"
+358,372,cordts,\N,John,Cordts,[nan]
+359,373,clark,\N,Jim,Clark,"[nan, nan, nan, nan, nan, nan, 397.0, 401.0, 404.0, 541.0, 289.0, 427.0, 305.0, 345.0, 346.0, 475.0, 356.0, 502.0, 374.0]"
+360,374,spence,\N,Mike,Spence,"[nan, 322.0, 388.0, 423.0, 328.0, 361.0, 397.0, 373.0, 382.0]"
+361,375,scarfiotti,\N,Ludovico,Scarfiotti,"[nan, 387.0, 364.0]"
+362,376,bianchi,BIA,Lucien,Bianchi,"[nan, nan, 482.0, 278.0, 375.0, 312.0, 350.0]"
+363,377,jo_schlesser,\N,Jo,Schlesser,"[235.0, 341.0]"
+364,378,widdows,\N,Robin,Widdows,[350.0]
+365,379,ahrens,\N,Kurt,Ahrens,[391.0]
+366,380,gardner,\N,Frank,Gardner,"[nan, 346.0]"
+367,382,solana,\N,Moisés,Solana,"[392.0, 373.0]"
+368,383,anderson,\N,Bob,Anderson,"[nan, nan, nan, nan, nan, 293.0, nan, nan, nan, 356.0, 364.0, 347.0]"
+369,385,bandini,\N,Lorenzo,Bandini,"[nan, 387.0, 487.0, 425.0, 427.0, 341.0, 375.0, 345.0]"
+370,386,ginther,\N,Richie,Ginther,"[nan, nan, nan, 289.0, nan, 389.0, 394.0, 427.0, 403.0, 405.0, 408.0, 507.0]"
+371,387,parkes,\N,Mike,Parkes,"[nan, 385.0]"
+372,388,irwin,\N,Chris,Irwin,"[328.0, nan, 322.0, 383.0]"
+373,389,ligier,\N,Guy,Ligier,"[386.0, 347.0, 358.0]"
+374,390,rees,\N,Alan,Rees,[nan]
+375,391,hart,\N,Brian,Hart,[379.0]
+376,392,fisher,\N,Mike,Fisher,[nan]
+377,393,tom_jones,\N,Tom,Jones,[nan]
+378,394,baghetti,\N,Giancarlo,Baghetti,"[nan, 403.0]"
+379,395,williams,\N,Jonathan,Williams,[278.0]
+380,396,bondurant,\N,Bob,Bondurant,"[328.0, nan, nan]"
+381,397,arundell,\N,Peter,Arundell,"[nan, nan, 373.0, 374.0, 345.0]"
+382,399,taylor,\N,John,Taylor,"[nan, nan, nan, nan]"
+383,400,lawrence,\N,Chris,Lawrence,"[nan, nan]"
+384,401,trevor_taylor,\N,Trevor,Taylor,"[nan, nan, 404.0, 373.0]"
+385,402,geki,\N,Giacomo,Russo,[nan]
+386,403,phil_hill,\N,Phil,Hill,"[nan, 385.0, 386.0, nan, 454.0, 360.0, 394.0, 364.0, 399.0, 435.0, 476.0]"
+387,404,ireland,\N,Innes,Ireland,"[nan, 289.0, nan, nan, nan, nan, nan, 440.0, 328.0, 497.0, 401.0, 370.0, 373.0, 502.0, 408.0, 410.0, 475.0]"
+388,405,bucknum,\N,Ronnie,Bucknum,"[nan, nan, 386.0, nan]"
+389,406,hawkins,\N,Paul,Hawkins,"[nan, 407.0]"
+390,407,prophet,\N,David,Prophet,[406.0]
+391,408,maggs,\N,Tony,Maggs,"[360.0, nan, 347.0, 453.0]"
+392,409,blokdyk,\N,Trevor,Blokdyk,"[nan, nan]"
+393,410,lederle,\N,Neville,Lederle,[404.0]
+394,411,serrurier,\N,Doug,Serrurier,"[368.0, nan, nan]"
+395,412,niemann,\N,Brausch,Niemann,"[nan, 293.0]"
+396,415,reed,\N,Ray,Reed,[nan]
+397,416,clapham,\N,David,Clapham,[nan]
+398,418,gregory,\N,Masten,Gregory,"[nan, nan, nan, nan, nan, 551.0, 364.0, 464.0, 437.0, 346.0, 478.0]"
+399,420,raby,\N,Ian,Raby,"[nan, nan, nan]"
+400,421,rollinson,\N,Alan,Rollinson,[nan]
+401,423,mitter,\N,Gerhard,Mitter,[430.0]
+402,424,bussinello,\N,Roberto,Bussinello,[nan]
+403,425,vaccarella,\N,Nino,Vaccarella,"[424.0, 404.0]"
+404,427,trintignant,\N,Maurice,Trintignant,"[nan, nan, 642.0, 643.0, 385.0, nan, 401.0, 660.0, 278.0, 418.0, 554.0, 456.0, 347.0, 476.0, 356.0, 360.0, 498.0, 626.0, 501.0]"
+405,429,andre_pilette,\N,André,Pilette,"[nan, nan, nan, nan, nan, 554.0, 632.0]"
+406,430,beaufort,\N,Carel Godin,de Beaufort,"[nan, nan, nan, nan, nan, nan, nan, 423.0, nan, nan, nan, 461.0, 347.0]"
+407,431,barth,\N,Edgar,Barth,"[nan, 430.0]"
+408,432,cabral,\N,Mário de Araújo,Cabral,"[nan, nan, 418.0]"
+409,433,hansgen,\N,Walt,Hansgen,"[nan, 373.0]"
+410,434,sharp,\N,Hap,Sharp,"[440.0, 346.0]"
+411,435,mairesse,\N,Willy,Mairesse,[394.0]
+412,436,campbell-jones,\N,John,Campbell-Jones,[438.0]
+413,437,burgess,\N,Ian,Burgess,"[nan, 478.0, 438.0]"
+414,438,settember,\N,Tony,Settember,"[nan, nan, 436.0, 437.0]"
+415,439,estefano,\N,Nasif,Estéfano,"[nan, nan, nan, nan]"
+416,440,hall,\N,Jim,Hall,"[418.0, 346.0]"
+417,441,parnell,\N,Tim,Parnell,[481.0]
+418,442,kuhnke,\N,Kurt,Kuhnke,"[nan, nan]"
+419,443,ernesto_brambilla,\N,Ernesto,Brambilla,[nan]
+420,444,lippi,\N,Roberto,Lippi,"[nan, nan, nan]"
+421,447,starrabba,\N,Gaetano,Starrabba,"[nan, nan]"
+422,448,broeker,\N,Peter,Broeker,[450.0]
+423,449,ward,\N,Rodger,Ward,"[nan, 513.0, nan, 562.0, 509.0]"
+424,450,vos,\N,Ernie,de Vos,[448.0]
+425,842,gasly,GAS,Pierre,Gasly,"[832.0, 843.0, 852.0, 826.0, 830.0]"
+426,453,lewis,\N,Jackie,Lewis,[nan]
+427,454,ricardo_rodriguez,\N,Ricardo,Rodríguez,[394.0]
+428,455,seidel,\N,Wolfgang,Seidel,"[nan, 346.0]"
+429,456,salvadori,\N,Roy,Salvadori,"[nan, nan, nan, 356.0, 486.0, 619.0, 427.0, 341.0, 566.0, 437.0]"
+430,459,marsh,\N,Tony,Marsh,[484.0]
+431,461,schiller,\N,Heinz,Schiller,[455.0]
+432,462,davis,\N,Colin,Davis,[437.0]
+433,464,shelly,\N,Tony,Shelly,[418.0]
+434,465,greene,\N,Keith,Greene,"[nan, nan, nan, nan]"
+435,468,penske,\N,Roger,Penske,[360.0]
+436,472,harris,\N,Mike,Harris,[nan]
+437,475,moss,\N,Stirling,Moss,"[nan, nan, nan, nan, 651.0, 404.0, 664.0, 418.0, 554.0, 690.0, 579.0, 580.0, 590.0, 725.0, 477.0, 479.0, 356.0, 486.0, 501.0, 373.0]"
+438,476,trips,\N,Wolfgang,von Trips,"[386.0, 578.0, 551.0, 427.0, 403.0]"
+439,477,allison,\N,Cliff,Allison,"[289.0, 476.0, 549.0, 502.0]"
+440,478,herrmann,\N,Hans,Herrmann,"[347.0, 692.0, 431.0]"
+441,479,brooks,\N,Tony,Brooks,"[nan, 289.0, 578.0, nan, 364.0, 590.0, 403.0, 475.0, 476.0]"
+442,481,henry_taylor,\N,Henry,Taylor,"[441.0, 356.0]"
+443,482,gendebien,\N,Olivier,Gendebien,"[nan, nan]"
+444,483,scarlatti,\N,Giorgio,Scarlatti,"[nan, 553.0, 430.0, nan]"
+445,484,naylor,\N,Brian,Naylor,"[nan, nan, nan, nan, nan, nan, 459.0]"
+446,486,fairman,\N,Jack,Fairman,"[664.0, 610.0, 636.0]"
+447,487,natili,\N,Massimo,Natili,[385.0]
+448,488,monteverdi,\N,Peter,Monteverdi,[nan]
+449,491,thiele,\N,Alfonso,Thiele,[483.0]
+450,496,menditeguy,\N,Carlos,Menditeguy,[499.0]
+451,497,larreta,\N,Alberto Rodriguez,Larreta,[404.0]
+452,498,gonzalez,\N,José Froilán,González,"[642.0, 578.0, 647.0, 427.0, 620.0, 697.0, 695.0, 633.0]"
+453,499,bonomi,\N,Roberto,Bonomi,[496.0]
+454,500,munaron,\N,Gino,Munaron,"[nan, nan, 439.0]"
+455,501,schell,\N,Harry,Schell,"[nan, 746.0, 554.0, 427.0, 663.0, 347.0, 541.0, 670.0]"
+456,502,stacey,\N,Alan,Stacey,[289.0]
+457,505,bristow,\N,Chris,Bristow,[549.0]
+458,506,halford,\N,Bruce,Halford,[289.0]
+459,507,daigh,\N,Chuck,Daigh,"[nan, 508.0]"
+460,508,reventlow,\N,Lance,Reventlow,[507.0]
+461,509,rathmann,\N,Jim,Rathmann,"[nan, 449.0, 611.0, nan]"
+462,510,goldsmith,\N,Paul,Goldsmith,[517.0]
+463,511,branson,\N,Don,Branson,"[nan, nan]"
+464,512,thomson,\N,Johnny,Thomson,"[nan, nan, 612.0, 518.0, 536.0]"
+465,513,johnson,\N,Eddie,Johnson,"[523.0, nan, 515.0]"
+466,514,veith,\N,Bob,Veith,"[nan, nan, 522.0]"
+467,515,tingelstad,\N,Bud,Tingelstad,[513.0]
+468,516,christie,\N,Bob,Christie,[520.0]
+469,517,amick,\N,Red,Amick,[510.0]
+470,518,darter,\N,Duane,Carter,"[nan, 513.0, nan, 519.0, 529.0, 731.0]"
+471,519,homeier,\N,Bill,Homeier,[518.0]
+472,520,hartley,\N,Gene,Hartley,"[nan, 449.0]"
+473,521,stevenson,\N,Chuck,Stevenson,[nan]
+474,522,grim,\N,Bobby,Grim,[514.0]
+475,523,templeman,\N,Shorty,Templeman,[513.0]
+476,524,hurtubise,\N,Jim,Hurtubise,[nan]
+477,525,bryan,\N,Jimmy,Bryan,"[512.0, 521.0, nan, 591.0]"
+478,526,ruttman,\N,Troy,Ruttman,"[nan, nan]"
+479,527,sachs,\N,Eddie,Sachs,[538.0]
+480,528,freeland,\N,Don,Freeland,"[nan, nan, nan, nan, nan]"
+481,529,bettenhausen,\N,Tony,Bettenhausen,"[nan, 675.0, 510.0]"
+482,531,foyt,\N,Anthony,Foyt,[520.0]
+483,532,russo,\N,Eddie,Russo,[nan]
+484,533,boyd,\N,Johnny,Boyd,[513.0]
+485,536,sutton,\N,Len,Sutton,[512.0]
+486,537,dick_rathmann,\N,Dick,Rathmann,[nan]
+487,538,herman,\N,Al,Herman,"[nan, nan]"
+488,539,dempsey_wilson,\N,Dempsey,Wilson,[594.0]
+489,541,flockhart,\N,Ron,Flockhart,"[456.0, 501.0, 486.0]"
+490,543,cabianca,\N,Giulio,Cabianca,"[nan, 586.0, 500.0]"
+491,544,drogo,\N,Piero,Drogo,[455.0]
+492,545,gamble,\N,Fred,Gamble,[nan]
+493,547,gould,\N,Horace,Gould,[nan]
+494,548,drake,\N,Bob,Drake,[nan]
+495,549,bueb,\N,Ivor,Bueb,"[554.0, 486.0]"
+496,551,filippis,\N,Maria,de Filippis,"[418.0, 476.0]"
+497,553,testut,\N,André,Testut,[483.0]
+498,554,behra,\N,Jean,Behra,"[578.0, 547.0, 645.0, 427.0, 496.0, 626.0, 403.0, 501.0, 632.0, 347.0, 607.0]"
+499,555,paul_russo,\N,Paul,Russo,"[nan, 612.0]"
+500,559,flaherty,\N,Pat,Flaherty,[nan]
+501,561,ray_crawford,\N,Ray,Crawford,[nan]
+502,562,turner,\N,Jack,Turner,[nan]
+503,563,weyant,\N,Chuck,Weyant,[nan]
+504,564,larson,\N,Jud,Larson,[592.0]
+505,565,magill,\N,Mike,Magill,[nan]
+506,566,shelby,\N,Carroll,Shelby,"[456.0, 347.0, 477.0]"
+507,567,orey,\N,Fritz,d'Orey,"[nan, nan]"
+508,572,blanchard,\N,Harry,Blanchard,[nan]
+509,573,tomaso,\N,Alessandro,de Tomaso,[nan]
+510,574,constantine,\N,George,Constantine,[nan]
+511,575,said,\N,Bob,Said,[nan]
+512,576,cade,\N,Phil,Cade,[nan]
+513,577,musso,\N,Luigi,Musso,"[nan, 578.0, 482.0, 643.0, 581.0, 651.0]"
+514,578,hawthorn,\N,Mike,Hawthorn,"[nan, 577.0, 482.0, nan, nan, 581.0, nan, 647.0, 427.0, 620.0, 686.0, 689.0, 403.0, 501.0, 476.0, 479.0]"
+515,579,fangio,\N,Juan,Fangio,"[641.0, 642.0, 418.0, 644.0, 478.0, 648.0, 554.0, 786.0, 403.0, 498.0, 501.0, 691.0, 697.0, 475.0, 606.0]"
+516,580,godia,\N,Paco,Godia,[669.0]
+517,581,collins,\N,Peter,Collins,"[nan, 608.0, 578.0, 579.0, nan, nan, 704.0, 486.0, 738.0, 651.0, 632.0]"
+518,584,kessler,\N,Bruce,Kessler,[585.0]
+519,585,emery,\N,Paul,Emery,[nan]
+520,586,piotti,\N,Luigi,Piotti,[nan]
+521,589,chiron,\N,Louis,Chiron,"[704.0, 625.0, 501.0, 669.0]"
+522,590,lewis-evans,\N,Stuart,Lewis-Evans,"[456.0, 549.0, 479.0]"
+523,591,george_amick,\N,George,Amick,[525.0]
+524,592,reece,\N,Jimmy,Reece,"[nan, nan, 564.0, nan]"
+525,593,parsons,\N,Johnnie,Parsons,[770.0]
+526,594,tolan,\N,Johnnie,Tolan,[539.0]
+527,596,elisian,\N,Ed,Elisian,[655.0]
+528,606,portago,\N,Alfonso,de Portago,[607.0]
+529,607,perdisa,\N,Cesare,Perdisa,[633.0]
+530,608,castellotti,\N,Eugenio,Castellotti,"[nan, 578.0, 647.0, 620.0, 633.0]"
+531,609,simon,\N,André,Simon,"[626.0, 427.0]"
+532,610,leston,\N,Les,Leston,"[356.0, 486.0]"
+533,611,hanks,\N,Sam,Hanks,"[593.0, 509.0]"
+534,612,linden,\N,Andy,Linden,"[nan, 678.0]"
+535,617,macdowel,\N,Mike,MacDowel,[356.0]
+536,618,mackay-fraser,\N,Herbert,MacKay-Fraser,[541.0]
+537,619,gerard,\N,Bob,Gerard,"[nan, 787.0, 547.0, 475.0]"
+538,620,maglioli,\N,Umberto,Maglioli,"[608.0, 498.0, 578.0]"
+539,622,landi,\N,Chico,Landi,[759.0]
+540,624,ramos,\N,Hernando,da Silva Ramos,"[625.0, 626.0, 650.0]"
+541,625,bayol,\N,Élie,Bayol,"[nan, 554.0]"
+542,626,manzon,\N,Robert,Manzon,"[nan, 609.0, 554.0, 427.0, 624.0, 660.0]"
+543,627,rosier,\N,Louis,Rosier,"[704.0, 708.0, 773.0, 644.0, 741.0, 501.0]"
+544,628,sweikert,\N,Bob,Sweikert,"[520.0, 529.0]"
+545,629,griffith,\N,Cliff,Griffith,[nan]
+546,630,dinsmore,\N,Duke,Dinsmore,[734.0]
+547,631,andrews,\N,Keith,Andrews,[nan]
+548,632,frere,\N,Paul,Frère,"[nan, 651.0]"
+549,633,villoresi,\N,Luigi,Villoresi,"[608.0, 642.0, 647.0, 498.0, 793.0, 669.0, 607.0]"
+550,634,scotti,\N,Piero,Scotti,[nan]
+551,636,titterington,\N,Desmond,Titterington,[486.0]
+552,639,milhoux,\N,André,Milhoux,[626.0]
+553,640,graffenried,\N,Toulo,de Graffenried,"[747.0, 501.0]"
+554,641,taruffi,\N,Piero,Taruffi,"[723.0, 647.0]"
+555,642,farina,\N,Nino,Farina,"[578.0, 579.0, 498.0, 786.0, 632.0, 633.0]"
+556,643,mieres,\N,Roberto,Mieres,"[577.0, 644.0, 501.0]"
+557,644,mantovani,\N,Sergio,Mantovani,[501.0]
+558,645,bucci,\N,Clemar,Bucci,"[554.0, 693.0]"
+559,646,iglesias,\N,Jesús,Iglesias,[625.0]
+560,647,ascari,\N,Alberto,Ascari,"[nan, 641.0, 642.0, 498.0, 793.0, 633.0]"
+561,648,kling,\N,Karl,Kling,[579.0]
+562,649,birger,\N,Pablo,Birger,[nan]
+563,650,pollet,\N,Jacques,Pollet,"[624.0, 625.0, 554.0]"
+564,651,macklin,\N,Lance,Macklin,"[nan, 581.0]"
+565,652,whiteaway,\N,Ted,Whiteaway,[nan]
+566,653,davies,\N,Jimmy,Davies,"[nan, nan]"
+567,654,faulkner,\N,Walt,Faulkner,[nan]
+568,655,niday,\N,Cal,Niday,[596.0]
+569,656,cross,\N,Art,Cross,[657.0]
+570,657,vukovich,\N,Bill,Vukovich,"[nan, 658.0, 656.0]"
+571,658,mcgrath,\N,Jack,McGrath,[657.0]
+572,659,hoyt,\N,Jerry,Hoyt,[nan]
+573,660,claes,\N,Johnny,Claes,"[nan, nan, 738.0, 741.0, 669.0]"
+574,661,peter_walker,\N,Peter,Walker,[686.0]
+575,662,sparken,\N,Mike,Sparken,[624.0]
+576,663,wharton,\N,Ken,Wharton,"[nan, nan, nan, nan, nan, 687.0, 688.0, 501.0]"
+577,664,mcalpine,\N,Kenneth,McAlpine,"[666.0, 660.0]"
+578,665,marr,\N,Leslie,Marr,[682.0]
+579,666,rolt,\N,Tony,Rolt,"[664.0, 669.0]"
+580,667,fitch,\N,John,Fitch,[704.0]
+581,669,bira,\N,Prince,Bira,"[737.0, 427.0, 720.0, 697.0, 633.0, 666.0]"
+582,670,marimon,\N,Onofre,Marimón,"[640.0, 643.0]"
+583,673,nazaruk,\N,Mike,Nazaruk,[nan]
+584,675,ayulo,\N,Manny,Ayulo,[529.0]
+585,677,webb,\N,Travis,Webb,"[nan, 731.0, 805.0]"
+586,678,duncan,\N,Len,Duncan,[612.0]
+587,679,mccoy,\N,Ernie,McCoy,[612.0]
+588,681,georges_berger,\N,Georges,Berger,[nan]
+589,682,beauman,\N,Don,Beauman,[665.0]
+590,686,reg_parnell,\N,Reg,Parnell,"[781.0, 661.0]"
+591,687,whitehead,\N,Peter,Whitehead,"[nan, nan]"
+592,688,brandon,\N,Eric,Brandon,"[689.0, 663.0]"
+593,689,alan_brown,\N,Alan,Brown,"[688.0, 475.0]"
+594,690,nuckey,\N,Rodney,Nuckey,[475.0]
+595,691,lang,\N,Hermann,Lang,[579.0]
+596,692,helfrich,\N,Theo,Helfrich,[nan]
+597,693,wacker,\N,Fred,Wacker,"[554.0, 645.0]"
+598,695,galvez,\N,Oscar,Gálvez,[498.0]
+599,696,john_barber,\N,John,Barber,[689.0]
+600,697,bonetto,\N,Felice,Bonetto,"[640.0, nan, 579.0, 686.0]"
+601,701,holland,\N,Bill,Holland,[768.0]
+602,702,bob_scott,\N,Bob,Scott,[nan]
+603,703,legat,\N,Arthur,Legat,"[nan, nan]"
+604,704,cabantous,\N,Yves,Cabantous,"[627.0, 667.0]"
+605,705,crook,\N,Tony,Crook,[nan]
+606,708,duncan_hamilton,\N,Duncan,Hamilton,[651.0]
+607,709,klodwig,\N,Ernst,Klodwig,[754.0]
+608,710,krause,\N,Rudolf,Krause,[709.0]
+609,712,heeks,\N,Willi,Heeks,[752.0]
+610,713,fitzau,\N,Theo,Fitzau,[715.0]
+611,715,bechem,\N,Günther,Bechem,[713.0]
+612,717,hans_stuck,\N,Hans,von Stuck,"[nan, nan]"
+613,719,scherrer,\N,Albert,Scherrer,[651.0]
+614,720,terra,\N,Max,de Terra,[669.0]
+615,721,hirt,\N,Peter,Hirt,[nan]
+616,723,fischer,\N,Rudi,Fischer,[641.0]
+617,724,ulmen,\N,Toni,Ulmen,[nan]
+618,725,abecassis,\N,George,Abecassis,[475.0]
+619,726,george_connor,\N,George,Connor,"[nan, 526.0]"
+620,727,rigsby,\N,Jim,Rigsby,[nan]
+621,728,james,\N,Joe,James,[nan]
+622,729,schindler,\N,Bill,Schindler,"[nan, 734.0]"
+623,730,fonder,\N,George,Fonder,[nan]
+624,731,banks,\N,Henry,Banks,[nan]
+625,732,mcdowell,\N,Johnny,McDowell,[nan]
+626,734,ball,\N,Bobby,Ball,[630.0]
+627,737,obrien,\N,Robert,O'Brien,[669.0]
+628,738,gaze,\N,Tony,Gaze,"[660.0, 581.0]"
+629,739,charrington,\N,Robin,Montgomerie-Charrington,[nan]
+630,741,etancelin,\N,Philippe,Étancelin,"[640.0, 801.0]"
+631,742,poore,\N,Dennis,Poore,"[475.0, 743.0]"
+632,743,thompson,\N,Eric,Thompson,[742.0]
+633,744,downing,\N,Ken,Downing,[nan]
+634,745,graham_whitehead,\N,Graham,Whitehead,[nan]
+635,746,bianco,\N,Gino,Bianco,[501.0]
+636,747,murray,\N,David,Murray,"[640.0, 777.0]"
+637,748,cantoni,\N,Eitel,Cantoni,[697.0]
+638,749,aston,\N,Bill,Aston,"[nan, nan, nan]"
+639,751,riess,\N,Fritz,Riess,[724.0]
+640,752,niedermayr,\N,Helmut,Niedermayr,[712.0]
+641,754,balsa,\N,Marcel,Balsa,[709.0]
+642,759,flinterman,\N,Jan,Flinterman,[622.0]
+643,760,dusio,\N,Piero,Dusio,[nan]
+644,762,rol,\N,Franco,Rol,[nan]
+645,766,wallard,\N,Lee,Wallard,"[nan, 673.0]"
+646,768,rose,\N,Mauri,Rose,[701.0]
+647,769,mackey,\N,Bill,Mackey,[nan]
+648,770,green,\N,Cecil,Green,[593.0]
+649,773,levegh,\N,Pierre,Levegh,[627.0]
+650,775,gordini,\N,Aldo,Gordini,[427.0]
+651,776,kelly,\N,Joe,Kelly,"[nan, 785.0]"
+652,777,parker,\N,Philip,Fotheringham-Parker,[747.0]
+653,778,shawe_taylor,\N,Brian,Shawe Taylor,[619.0]
+654,780,branca,\N,Toni,Branca,"[640.0, nan]"
+655,781,richardson,\N,Ken,Richardson,[686.0]
+656,784,hampshire,\N,David,Hampshire,[778.0]
+657,785,crossley,\N,Geoff,Crossley,[nan]
+658,786,fagioli,\N,Luigi,Fagioli,[642.0]
+659,787,harrison,\N,Cuth,Harrison,[nan]
+660,793,sommer,\N,Raymond,Sommer,[633.0]
+661,795,fohr,\N,Myron,Fohr,[nan]
+662,796,ader,\N,Walt,Ader,[nan]
+663,797,holmes,\N,Jackie,Holmes,[nan]
+664,798,levrett,\N,Bayliss,Levrett,[803.0]
+665,801,pozzi,\N,Charles,Pozzi,[741.0]
+666,802,serafini,\N,Dorino,Serafini,[687.0]
+667,803,cantrell,\N,Bill,Cantrell,[798.0]
+668,805,kladis,\N,Danny,Kladis,[677.0]
+669,807,hulkenberg,HUL,Nico,Hülkenberg,"[832.0, 835.0, 840.0, 814.0, 815.0, 817.0, 821.0, 22.0]"
+670,808,petrov,PET,Vitaly,Petrov,"[9.0, 2.0, 811.0, 5.0]"
+671,810,grassi,DIG,Lucas,di Grassi,[10.0]
+672,811,bruno_senna,SEN,Bruno,Senna,"[32.0, 808.0, 812.0, 813.0, 29.0]"
+673,812,chandhok,CHA,Karun,Chandhok,"[811.0, 29.0]"
+674,813,maldonado,MAL,Pastor,Maldonado,"[822.0, 154.0, 811.0, 22.0]"
+675,814,resta,DIR,Paul,di Resta,"[16.0, 807.0]"
+676,815,perez,PER,Sergio,Pérez,"[839.0, 807.0, 840.0, 18.0, 155.0, 830.0]"
+677,816,ambrosio,DAM,Jérôme,d'Ambrosio,[10.0]
+678,817,ricciardo,RIC,Daniel,Ricciardo,"[839.0, 807.0, 846.0, 818.0, 20.0, 24.0, 826.0, 830.0]"
+679,818,vergne,VER,Jean-Éric,Vergne,"[817.0, 826.0]"
+680,819,pic,PIC,Charles,Pic,"[10.0, 823.0]"
+681,820,chilton,CHI,Max,Chilton,"[824.0, nan]"
+682,821,gutierrez,GUT,Esteban,Gutiérrez,"[16.0, 154.0, 807.0]"
+683,822,bottas,BOT,Valtteri,Bottas,"[1.0, 13.0, 813.0, 847.0, 855.0]"
+684,823,garde,VDG,Giedo,van der Garde,[819.0]
+685,824,jules_bianchi,BIA,Jules,Bianchi,[820.0]
+686,825,kevin_magnussen,MAG,Kevin,Magnussen,"[835.0, 18.0, 850.0, 854.0, 154.0]"
+687,826,kvyat,KVY,Daniil,Kvyat,"[832.0, 842.0, 843.0, 848.0, 817.0, 818.0]"
+688,827,lotterer,LOT,André,Lotterer,[828.0]
+689,828,ericsson,ERI,Marcus,Ericsson,"[827.0, 836.0, 841.0, 844.0, 155.0, 831.0]"
+690,829,stevens,STE,Will,Stevens,"[833.0, 834.0, 155.0]"
+691,830,max_verstappen,VER,Max,Verstappen,"[832.0, 842.0, 815.0, 848.0, 817.0]"
+692,831,nasr,NAS,Felipe,Nasr,[828.0]
+693,832,sainz,SAI,Carlos,Sainz,"[807.0, 844.0, 846.0, 826.0, 830.0]"
+694,833,merhi,MER,Roberto,Merhi,[829.0]
+695,834,rossi,RSS,Alexander,Rossi,[829.0]
+696,835,jolyon_palmer,PAL,Jolyon,Palmer,"[825.0, 807.0]"
+697,836,wehrlein,WEH,Pascal,Wehrlein,"[828.0, 837.0, 839.0]"
+698,837,haryanto,HAR,Rio,Haryanto,[836.0]
+699,838,vandoorne,VAN,Stoffel,Vandoorne,"[18.0, 4.0]"
+700,839,ocon,OCO,Esteban,Ocon,"[817.0, 836.0, 4.0, 815.0]"
+701,840,stroll,STR,Lance,Stroll,"[807.0, 845.0, 13.0, 814.0, 815.0, 20.0]"
+702,841,giovinazzi,GIO,Antonio,Giovinazzi,"[8.0, 9.0, 828.0]"
+703,843,brendon_hartley,HAR,Brendon,Hartley,[842.0]
+704,844,leclerc,LEC,Charles,Leclerc,"[832.0, 20.0, 828.0]"
+705,845,sirotkin,SIR,Sergey,Sirotkin,[840.0]
+706,846,norris,NOR,Lando,Norris,"[832.0, 817.0]"
+707,847,russell,RUS,George,Russell,"[849.0, 9.0, 1.0]"
+708,848,albon,ALB,Alexander,Albon,"[849.0, 826.0, 830.0]"
+709,849,latifi,LAT,Nicholas,Latifi,"[848.0, 847.0]"
+710,850,pietro_fittipaldi,FIT,Pietro,Fittipaldi,[825.0]
+711,851,aitken,AIT,Jack,Aitken,[849.0]
+712,852,tsunoda,TSU,Yuki,Tsunoda,[842.0]
+713,853,mazepin,MAZ,Nikita,Mazepin,[854.0]
+714,854,mick_schumacher,MSC,Mick,Schumacher,"[825.0, 853.0]"
+715,855,zhou,ZHO,Guanyu,Zhou,[822.0]
+716,856,de_vries,DEV,Nyck,de Vries,[849.0]

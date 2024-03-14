@@ -1,0 +1,221 @@
+,position,constructor,circuit,date
+12706,10,Red Bull,Bahrain Grand Prix,2022-03-20
+12707,9,McLaren,Bahrain Grand Prix,2022-03-20
+12708,8,Williams,Bahrain Grand Prix,2022-03-20
+12709,7,Aston Martin,Bahrain Grand Prix,2022-03-20
+12710,6,AlphaTauri,Bahrain Grand Prix,2022-03-20
+12711,5,Alpine F1 Team,Bahrain Grand Prix,2022-03-20
+12712,4,Alfa Romeo,Bahrain Grand Prix,2022-03-20
+12713,3,Haas F1 Team,Bahrain Grand Prix,2022-03-20
+12714,2,Mercedes,Bahrain Grand Prix,2022-03-20
+12715,1,Ferrari,Bahrain Grand Prix,2022-03-20
+12721,1,Ferrari,Saudi Arabian Grand Prix,2022-03-27
+12722,2,Mercedes,Saudi Arabian Grand Prix,2022-03-27
+12723,5,Haas F1 Team,Saudi Arabian Grand Prix,2022-03-27
+12724,6,Alfa Romeo,Saudi Arabian Grand Prix,2022-03-27
+12725,4,Alpine F1 Team,Saudi Arabian Grand Prix,2022-03-27
+12726,7,AlphaTauri,Saudi Arabian Grand Prix,2022-03-27
+12727,9,Aston Martin,Saudi Arabian Grand Prix,2022-03-27
+12728,10,Williams,Saudi Arabian Grand Prix,2022-03-27
+12729,8,McLaren,Saudi Arabian Grand Prix,2022-03-27
+12730,3,Red Bull,Saudi Arabian Grand Prix,2022-03-27
+12731,1,Ferrari,Australian Grand Prix,2022-04-10
+12732,2,Mercedes,Australian Grand Prix,2022-04-10
+12733,7,Haas F1 Team,Australian Grand Prix,2022-04-10
+12734,6,Alfa Romeo,Australian Grand Prix,2022-04-10
+12735,5,Alpine F1 Team,Australian Grand Prix,2022-04-10
+12736,8,AlphaTauri,Australian Grand Prix,2022-04-10
+12737,10,Aston Martin,Australian Grand Prix,2022-04-10
+12738,9,Williams,Australian Grand Prix,2022-04-10
+12739,4,McLaren,Australian Grand Prix,2022-04-10
+12740,3,Red Bull,Australian Grand Prix,2022-04-10
+12741,1,Ferrari,Emilia Romagna Grand Prix,2022-04-24
+12742,3,Mercedes,Emilia Romagna Grand Prix,2022-04-24
+12743,8,Haas F1 Team,Emilia Romagna Grand Prix,2022-04-24
+12744,5,Alfa Romeo,Emilia Romagna Grand Prix,2022-04-24
+12745,6,Alpine F1 Team,Emilia Romagna Grand Prix,2022-04-24
+12746,7,AlphaTauri,Emilia Romagna Grand Prix,2022-04-24
+12747,9,Aston Martin,Emilia Romagna Grand Prix,2022-04-24
+12748,10,Williams,Emilia Romagna Grand Prix,2022-04-24
+12749,4,McLaren,Emilia Romagna Grand Prix,2022-04-24
+12750,2,Red Bull,Emilia Romagna Grand Prix,2022-04-24
+12751,1,Ferrari,Miami Grand Prix,2022-05-08
+12752,3,Mercedes,Miami Grand Prix,2022-05-08
+12753,8,Haas F1 Team,Miami Grand Prix,2022-05-08
+12754,5,Alfa Romeo,Miami Grand Prix,2022-05-08
+12755,6,Alpine F1 Team,Miami Grand Prix,2022-05-08
+12756,7,AlphaTauri,Miami Grand Prix,2022-05-08
+12757,9,Aston Martin,Miami Grand Prix,2022-05-08
+12758,10,Williams,Miami Grand Prix,2022-05-08
+12759,4,McLaren,Miami Grand Prix,2022-05-08
+12760,2,Red Bull,Miami Grand Prix,2022-05-08
+12761,2,Ferrari,Spanish Grand Prix,2022-05-22
+12762,3,Mercedes,Spanish Grand Prix,2022-05-22
+12763,8,Haas F1 Team,Spanish Grand Prix,2022-05-22
+12764,5,Alfa Romeo,Spanish Grand Prix,2022-05-22
+12765,6,Alpine F1 Team,Spanish Grand Prix,2022-05-22
+12766,7,AlphaTauri,Spanish Grand Prix,2022-05-22
+12767,9,Aston Martin,Spanish Grand Prix,2022-05-22
+12768,10,Williams,Spanish Grand Prix,2022-05-22
+12769,4,McLaren,Spanish Grand Prix,2022-05-22
+12770,1,Red Bull,Spanish Grand Prix,2022-05-22
+12771,2,Ferrari,Monaco Grand Prix,2022-05-29
+12772,3,Mercedes,Monaco Grand Prix,2022-05-29
+12773,8,Haas F1 Team,Monaco Grand Prix,2022-05-29
+12774,5,Alfa Romeo,Monaco Grand Prix,2022-05-29
+12775,6,Alpine F1 Team,Monaco Grand Prix,2022-05-29
+12776,7,AlphaTauri,Monaco Grand Prix,2022-05-29
+12777,9,Aston Martin,Monaco Grand Prix,2022-05-29
+12778,10,Williams,Monaco Grand Prix,2022-05-29
+12779,4,McLaren,Monaco Grand Prix,2022-05-29
+12780,1,Red Bull,Monaco Grand Prix,2022-05-29
+12781,2,Ferrari,Azerbaijan Grand Prix,2022-06-12
+12782,3,Mercedes,Azerbaijan Grand Prix,2022-06-12
+12783,8,Haas F1 Team,Azerbaijan Grand Prix,2022-06-12
+12784,6,Alfa Romeo,Azerbaijan Grand Prix,2022-06-12
+12785,5,Alpine F1 Team,Azerbaijan Grand Prix,2022-06-12
+12786,7,AlphaTauri,Azerbaijan Grand Prix,2022-06-12
+12787,9,Aston Martin,Azerbaijan Grand Prix,2022-06-12
+12788,10,Williams,Azerbaijan Grand Prix,2022-06-12
+12789,4,McLaren,Azerbaijan Grand Prix,2022-06-12
+12790,1,Red Bull,Azerbaijan Grand Prix,2022-06-12
+12791,1,Red Bull,Canadian Grand Prix,2022-06-19
+12792,4,McLaren,Canadian Grand Prix,2022-06-19
+12793,10,Williams,Canadian Grand Prix,2022-06-19
+12794,7,AlphaTauri,Canadian Grand Prix,2022-06-19
+12795,9,Haas F1 Team,Canadian Grand Prix,2022-06-19
+12796,2,Ferrari,Canadian Grand Prix,2022-06-19
+12797,3,Mercedes,Canadian Grand Prix,2022-06-19
+12798,8,Aston Martin,Canadian Grand Prix,2022-06-19
+12799,5,Alpine F1 Team,Canadian Grand Prix,2022-06-19
+12800,6,Alfa Romeo,Canadian Grand Prix,2022-06-19
+12801,2,Ferrari,British Grand Prix,2022-07-03
+12802,3,Mercedes,British Grand Prix,2022-07-03
+12803,8,Haas F1 Team,British Grand Prix,2022-07-03
+12804,6,Alfa Romeo,British Grand Prix,2022-07-03
+12805,5,Alpine F1 Team,British Grand Prix,2022-07-03
+12806,7,AlphaTauri,British Grand Prix,2022-07-03
+12807,9,Aston Martin,British Grand Prix,2022-07-03
+12808,10,Williams,British Grand Prix,2022-07-03
+12809,4,McLaren,British Grand Prix,2022-07-03
+12810,1,Red Bull,British Grand Prix,2022-07-03
+12811,2,Ferrari,Austrian Grand Prix,2022-07-10
+12812,3,Mercedes,Austrian Grand Prix,2022-07-10
+12813,7,Haas F1 Team,Austrian Grand Prix,2022-07-10
+12814,6,Alfa Romeo,Austrian Grand Prix,2022-07-10
+12815,5,Alpine F1 Team,Austrian Grand Prix,2022-07-10
+12816,8,AlphaTauri,Austrian Grand Prix,2022-07-10
+12817,9,Aston Martin,Austrian Grand Prix,2022-07-10
+12818,10,Williams,Austrian Grand Prix,2022-07-10
+12819,4,McLaren,Austrian Grand Prix,2022-07-10
+12820,1,Red Bull,Austrian Grand Prix,2022-07-10
+12821,2,Ferrari,French Grand Prix,2022-07-24
+12822,3,Mercedes,French Grand Prix,2022-07-24
+12823,7,Haas F1 Team,French Grand Prix,2022-07-24
+12824,6,Alfa Romeo,French Grand Prix,2022-07-24
+12825,4,Alpine F1 Team,French Grand Prix,2022-07-24
+12826,8,AlphaTauri,French Grand Prix,2022-07-24
+12827,9,Aston Martin,French Grand Prix,2022-07-24
+12828,10,Williams,French Grand Prix,2022-07-24
+12829,5,McLaren,French Grand Prix,2022-07-24
+12830,1,Red Bull,French Grand Prix,2022-07-24
+12831,2,Ferrari,Hungarian Grand Prix,2022-07-31
+12832,3,Mercedes,Hungarian Grand Prix,2022-07-31
+12833,7,Haas F1 Team,Hungarian Grand Prix,2022-07-31
+12834,6,Alfa Romeo,Hungarian Grand Prix,2022-07-31
+12835,4,Alpine F1 Team,Hungarian Grand Prix,2022-07-31
+12836,8,AlphaTauri,Hungarian Grand Prix,2022-07-31
+12837,9,Aston Martin,Hungarian Grand Prix,2022-07-31
+12838,10,Williams,Hungarian Grand Prix,2022-07-31
+12839,5,McLaren,Hungarian Grand Prix,2022-07-31
+12840,1,Red Bull,Hungarian Grand Prix,2022-07-31
+12841,2,Ferrari,Belgian Grand Prix,2022-08-28
+12842,3,Mercedes,Belgian Grand Prix,2022-08-28
+12843,7,Haas F1 Team,Belgian Grand Prix,2022-08-28
+12844,6,Alfa Romeo,Belgian Grand Prix,2022-08-28
+12845,4,Alpine F1 Team,Belgian Grand Prix,2022-08-28
+12846,8,AlphaTauri,Belgian Grand Prix,2022-08-28
+12847,9,Aston Martin,Belgian Grand Prix,2022-08-28
+12848,10,Williams,Belgian Grand Prix,2022-08-28
+12849,5,McLaren,Belgian Grand Prix,2022-08-28
+12850,1,Red Bull,Belgian Grand Prix,2022-08-28
+12851,2,Ferrari,Dutch Grand Prix,2022-09-04
+12852,3,Mercedes,Dutch Grand Prix,2022-09-04
+12853,7,Haas F1 Team,Dutch Grand Prix,2022-09-04
+12854,6,Alfa Romeo,Dutch Grand Prix,2022-09-04
+12855,4,Alpine F1 Team,Dutch Grand Prix,2022-09-04
+12856,8,AlphaTauri,Dutch Grand Prix,2022-09-04
+12857,9,Aston Martin,Dutch Grand Prix,2022-09-04
+12858,10,Williams,Dutch Grand Prix,2022-09-04
+12859,5,McLaren,Dutch Grand Prix,2022-09-04
+12860,1,Red Bull,Dutch Grand Prix,2022-09-04
+12861,2,Ferrari,Italian Grand Prix,2022-09-11
+12862,3,Mercedes,Italian Grand Prix,2022-09-11
+12863,7,Haas F1 Team,Italian Grand Prix,2022-09-11
+12864,6,Alfa Romeo,Italian Grand Prix,2022-09-11
+12865,4,Alpine F1 Team,Italian Grand Prix,2022-09-11
+12866,8,AlphaTauri,Italian Grand Prix,2022-09-11
+12867,9,Aston Martin,Italian Grand Prix,2022-09-11
+12868,10,Williams,Italian Grand Prix,2022-09-11
+12869,5,McLaren,Italian Grand Prix,2022-09-11
+12870,1,Red Bull,Italian Grand Prix,2022-09-11
+12871,2,Ferrari,Singapore Grand Prix,2022-10-02
+12872,3,Mercedes,Singapore Grand Prix,2022-10-02
+12873,8,Haas F1 Team,Singapore Grand Prix,2022-10-02
+12874,6,Alfa Romeo,Singapore Grand Prix,2022-10-02
+12875,5,Alpine F1 Team,Singapore Grand Prix,2022-10-02
+12876,9,AlphaTauri,Singapore Grand Prix,2022-10-02
+12877,7,Aston Martin,Singapore Grand Prix,2022-10-02
+12878,10,Williams,Singapore Grand Prix,2022-10-02
+12879,4,McLaren,Singapore Grand Prix,2022-10-02
+12880,1,Red Bull,Singapore Grand Prix,2022-10-02
+12881,1,Red Bull,Japanese Grand Prix,2022-10-09
+12882,5,McLaren,Japanese Grand Prix,2022-10-09
+12883,9,AlphaTauri,Japanese Grand Prix,2022-10-09
+12884,8,Haas F1 Team,Japanese Grand Prix,2022-10-09
+12885,2,Ferrari,Japanese Grand Prix,2022-10-09
+12886,10,Williams,Japanese Grand Prix,2022-10-09
+12887,3,Mercedes,Japanese Grand Prix,2022-10-09
+12888,4,Alpine F1 Team,Japanese Grand Prix,2022-10-09
+12889,7,Aston Martin,Japanese Grand Prix,2022-10-09
+12890,6,Alfa Romeo,Japanese Grand Prix,2022-10-09
+12891,10,Williams,United States Grand Prix,2022-10-23
+12892,5,McLaren,United States Grand Prix,2022-10-23
+12893,4,Alpine F1 Team,United States Grand Prix,2022-10-23
+12894,2,Ferrari,United States Grand Prix,2022-10-23
+12895,7,Aston Martin,United States Grand Prix,2022-10-23
+12896,9,AlphaTauri,United States Grand Prix,2022-10-23
+12897,6,Alfa Romeo,United States Grand Prix,2022-10-23
+12898,8,Haas F1 Team,United States Grand Prix,2022-10-23
+12899,3,Mercedes,United States Grand Prix,2022-10-23
+12900,1,Red Bull,Mexico City Grand Prix,2022-10-30
+12901,5,McLaren,Mexico City Grand Prix,2022-10-30
+12902,9,AlphaTauri,Mexico City Grand Prix,2022-10-30
+12903,8,Haas F1 Team,Mexico City Grand Prix,2022-10-30
+12904,2,Ferrari,Mexico City Grand Prix,2022-10-30
+12905,10,Williams,Mexico City Grand Prix,2022-10-30
+12906,3,Mercedes,Mexico City Grand Prix,2022-10-30
+12907,4,Alpine F1 Team,Mexico City Grand Prix,2022-10-30
+12908,7,Aston Martin,Mexico City Grand Prix,2022-10-30
+12909,6,Alfa Romeo,Mexico City Grand Prix,2022-10-30
+12910,1,Red Bull,United States Grand Prix,2022-10-23
+12911,2,Ferrari,Brazilian Grand Prix,2022-11-13
+12912,3,Mercedes,Brazilian Grand Prix,2022-11-13
+12913,8,Haas F1 Team,Brazilian Grand Prix,2022-11-13
+12914,6,Alfa Romeo,Brazilian Grand Prix,2022-11-13
+12915,4,Alpine F1 Team,Brazilian Grand Prix,2022-11-13
+12916,9,AlphaTauri,Brazilian Grand Prix,2022-11-13
+12917,7,Aston Martin,Brazilian Grand Prix,2022-11-13
+12918,10,Williams,Brazilian Grand Prix,2022-11-13
+12919,5,McLaren,Brazilian Grand Prix,2022-11-13
+12920,1,Red Bull,Brazilian Grand Prix,2022-11-13
+12921,2,Ferrari,Abu Dhabi Grand Prix,2022-11-20
+12922,3,Mercedes,Abu Dhabi Grand Prix,2022-11-20
+12923,8,Haas F1 Team,Abu Dhabi Grand Prix,2022-11-20
+12924,6,Alfa Romeo,Abu Dhabi Grand Prix,2022-11-20
+12925,4,Alpine F1 Team,Abu Dhabi Grand Prix,2022-11-20
+12926,9,AlphaTauri,Abu Dhabi Grand Prix,2022-11-20
+12927,7,Aston Martin,Abu Dhabi Grand Prix,2022-11-20
+12928,10,Williams,Abu Dhabi Grand Prix,2022-11-20
+12929,5,McLaren,Abu Dhabi Grand Prix,2022-11-20
+12930,1,Red Bull,Abu Dhabi Grand Prix,2022-11-20
