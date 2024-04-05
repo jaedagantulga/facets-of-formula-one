@@ -14,3 +14,18 @@ The constructors and drivers for the 2022 season included:
 With the exception of Nico Hülkenberg substituting Grand Prix 1-2 for Sebastian Vettel for Aston Martin and Nyck de Vries substituting for Alexander Albon for Grand Prix 16 for Williams, all other drivers raced in all Grand Prixs.
 
 What made the 2022 season particularly interesting was that the FIA brought on significant changes that created a large impact on both the Constructors Championship as well as the Drivers' Championship.
+
+
+A snippet of two of the visualizations are shown below.
+
+
+
+https://github.com/jaedagantulga/facets-of-formula-one/assets/69090315/f8561c63-aabb-4560-857f-1f14e6eb3b79
+
+
+
+
+https://github.com/jaedagantulga/facets-of-formula-one/assets/69090315/e0874848-7683-4d51-bfbe-f8bd0caf16b2
+
+
+
